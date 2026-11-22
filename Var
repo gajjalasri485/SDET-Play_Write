@@ -1,0 +1,8 @@
+//var a = 10;
+//console.log(typeof(a));
+//var S =' Sam';
+//console.log(typeof(S));
+var b = 3.54;
+console.log(typeof(b));
+var Test;
+console.log(typeof(Testext)); 

@@ -1,0 +1,47 @@
+
+// let a = 10;
+// let b = 20;
+// c = a+b;
+// console.log(a);
+
+// let a = 10;
+// let b = 20;
+// c = a-b;
+// console.log(a);
+
+// let a =20;
+// let b =30;
+// let c = a%b;
+// console.log(c);
+
+// let a =20;
+// let b =30;
+//  c = a*b;
+// console.log(c);
+
+// let x =100+ 12*3;
+// console.log(x);
+
+
+//Assignments:
+// let y =90;
+// let x = 10+y;
+// console.log(x)
+
+// let x = 10;
+//   x += 20;
+// console.log(x);
+
+let g = 10;
+g -= 23;
+console.log(g);
+
+// let x = 10;
+// let y = 20;
+// let z = x>y;
+// console.log(z);
+
+let x = 10;
+let y = 20;
+let z = x<y;
+console.log(z);
